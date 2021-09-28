@@ -1,8 +1,8 @@
 h1,
 h6 {
     z-index: 100 !important;
-    color: white;
-    text-shadow: 0 0 14px black;
+    color: black;
+    text-shadow: 0 0 14px blue;
     font-size: 50px;
     margin-bottom: 50px;
     line-height: 50px;
@@ -13,8 +13,8 @@ h2,
 h6,
 p {
     z-index: 50 !important;
-    color: white;
-    text-shadow: 0 0 50px black;
+    color: black;
+    text-shadow: 0 0 50px blue;
     font-size: 20px;
     margin-bottom: 30px;
     line-height: 0px;
